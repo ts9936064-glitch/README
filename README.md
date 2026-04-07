@@ -1,3 +1,3 @@
 # DATA SCIENCE PROJECTS
 
-## This repository containing portfolio of data science projects
+## This repository containing my portfolio of data analysis projects  .
